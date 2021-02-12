@@ -71,7 +71,7 @@ router.put('/:id', (req, res) => {
     if (results[0] === 0) {
       res.status(404).json({
         message1: 'No category found with this id',
-        message2: 'Or category name already exists for this id'
+        message2: 'Or entered category name already exists for this id'
       });
       return;
     }
