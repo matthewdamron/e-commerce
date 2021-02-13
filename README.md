@@ -15,7 +15,8 @@ E-commerce
 - [Questions](#questions)
 
 ## Description
-Under Development!
+Node app that will save e-commerce goods in mysql database.<br />
+You can add, update, delete categories, products or tags.
 
 ## User Story
 ```
@@ -40,10 +41,12 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Screencast
-<!-- [![Watch the video](./images/note-taker.png)](https://drive.google.com/file/d/1p1HJg4mqLkZWnnwWoGskG6ujtpeNQXxF/view?usp=sharing) -->
+[![Watch the video](./images/e-commerce.png)](https://drive.google.com/file/d/1Vg5MGt3EK0-DYelaief8gamaFJuQ0DCY/view?usp=sharing)
 
 ## Installation
-
+Setup mysql database in mysql console `source db\schema.sql`<br />
+Install npm with npm install or npm i to install node.js<br />
+To seed the database run `npm run seed`<br />
 
 ## Usage
 
@@ -53,9 +56,7 @@ THEN I am able to successfully create, update, and delete data in my database
 This application is covered by the MIT license. 
 
 ## Language
-<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
