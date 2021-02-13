@@ -41,7 +41,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Screencast
-[![Watch the video](./images/e-commerce.png)](https://drive.google.com/file/d/1Vg5MGt3EK0-DYelaief8gamaFJuQ0DCY/view?usp=sharing)
+[![Watch the video](./images/e-commerce.png)](https://drive.google.com/file/d/1GYy3_RvOOwav1s0IDglEzfQOL9C7JH1q/view?usp=sharing)
 
 ## Installation
 Setup mysql database in mysql console `source db\schema.sql`<br />
