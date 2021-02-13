@@ -8,7 +8,6 @@ E-commerce
 - [Acceptance Criteria](#Acceptance-criteria)
 - [Screencast](#screencast)
 - [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Language](#language)
 - [Contributors](#contributors)
@@ -41,15 +40,12 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 ## Screencast
-[![Watch the video](./images/e-commerce.png)](https://drive.google.com/file/d/1GYy3_RvOOwav1s0IDglEzfQOL9C7JH1q/view?usp=sharing)
+[![Watch the video](./images/e-commerce.png)](https://drive.google.com/file/d/1REYWzOAj2-yPz6bse1be4GG63_LVusrW/view?usp=sharing)
 
 ## Installation
 Setup mysql database in mysql console `source db\schema.sql`<br />
 Install npm with npm install or npm i to install node.js<br />
 To seed the database run `npm run seed`<br />
-
-## Usage
-
 
 ## License
 ![GitHub](https://img.shields.io/github/license/matthewdamron/e-commerce)<br />
